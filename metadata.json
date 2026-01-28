@@ -1,11 +1,11 @@
 {
-  "name": "Six Seven",
+  "name": "SixS7ven",
   "symbol": "LXVII",
-  "description": "Six Seven (LXVII) - Solana meme coin inspired by the classic six seven meme.",
+  "description": "SixS7ven (LXVII) - Solana meme coin inspired by the classic six seven meme.",
   "image": "https://raw.githubusercontent.com/Sonyk87/sixseven/main/Logo.png",
   "external_url": "https://x.com/sixseven",
   "attributes": [
-    { "trait_type": "meme", "value": "Six Seven" }
+    { "trait_type": "meme", "value": "SixS7ven" }
   ],
   "properties": {
     "files": [
